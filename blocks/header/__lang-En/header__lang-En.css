@@ -1,8 +1,8 @@
-.header__lang-link_En{
+.header__lang-En{
     text-decoration-line: none;
     color: #FFFFFF;
  }
 
- .header__lang-link_En:hover{
+ .header__lang-En:hover{
     opacity: 0.8;
   }
