@@ -1,29 +1,21 @@
 .place__description {
-    display:flex;
+    display: flex;
     grid-area: description;
     flex-direction: column;
-    gap: 26px;
+    gap: 27px;
     width: 100%;
     margin: 0;
 }
 
-@media (max-width: 1279px) {
-    .place__description {
-        width: calc(100% - 64px);
-    }
-}
-
 @media (max-width: 1023px) {
     .place__description {
-       margin-bottom: 88px;
-       width: calc(100% - 48px);     
+        gap: 25px;
     }
 }
 
 @media (max-width: 767px) {
     .place__description {
-        margin-bottom: 64px;
-        width: calc(100% - 32px);
-        margin: 0 auto; 
+        max-width: calc(100% - 32px);
+        margin: 0 auto;
     }
 }

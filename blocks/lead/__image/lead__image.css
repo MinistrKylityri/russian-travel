@@ -1,7 +1,7 @@
-.lead__image{
-position: relative;
-width: 100%;
-margin: 0 auto;
-object-fit: cover;
-box-sizing: border-box;
+.lead__image {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    object-fit: cover;
+    box-sizing: border-box;
 }

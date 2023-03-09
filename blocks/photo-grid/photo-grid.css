@@ -1,4 +1,4 @@
-.photo-grid{
+.photo-grid {
     display: grid;
     margin: 0 auto 92px auto;
     grid-template-columns: repeat(4, 1fr);
@@ -22,7 +22,7 @@
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
         gap: 16px;
-        margin-bottom: 88px;        
+        margin-bottom: 88px;
     }
 }
 

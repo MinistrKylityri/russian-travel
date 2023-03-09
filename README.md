@@ -7,4 +7,6 @@
 5. Медиа запросы.
 
 Страница выполнена на русском языке.
+Ссылка на страницу:
+https://ministrkylityri.github.io/russian-travel/
 

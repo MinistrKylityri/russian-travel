@@ -1,7 +1,7 @@
 .lead {
-position: relative;
-max-width: 984px;
-margin: 0 auto 92px auto;
+    position: relative;
+    max-width: 984px;
+    margin: 0 auto 92px auto;
 }
 
 @media (max-width: 1279px) {
@@ -13,12 +13,12 @@ margin: 0 auto 92px auto;
 @media (max-width: 1023px) {
     .lead {
         max-width: 100%;
-        margin-bottom: 88px;     
+        margin-bottom: 88px;
     }
 }
 
 @media (max-width: 767px) {
     .lead {
-        margin-bottom: 64px;   
+        margin-bottom: 64px;
     }
 }

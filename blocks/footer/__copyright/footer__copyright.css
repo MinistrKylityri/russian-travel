@@ -1,9 +1,10 @@
-.footer__copyright{
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 16px;
-text-align: right;
+.footer__copyright {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+    margin: 0;
 }
 
 @media (max-width: 767px) {
@@ -11,6 +12,5 @@ text-align: right;
         line-height: 14px;
         text-align: start;
         width: 100%;
-       }
-  }
- 
+    }
+}
